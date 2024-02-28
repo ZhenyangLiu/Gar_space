@@ -6,7 +6,7 @@ from nerfstudio.plugins.types import MethodSpecification
 from nerfstudio.pipelines.base_pipeline import VanillaPipelineConfig
 from nerfstudio.data.datamanagers.base_datamanager import VanillaDataManagerConfig
 from nerfstudio.engine.trainer import TrainerConfig
-
+12
 # For Gaussian Splatting
 from nerfstudio.data.datamanagers.full_images_datamanager import (
     FullImageDatamanagerConfig,
